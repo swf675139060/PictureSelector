@@ -2,8 +2,8 @@
 //  MSSBrowseActionSheet.m
 //  MSSBrowse
 //
-//  Created by 于威 on 16/2/14.
-//  Copyright © 2016年 于威. All rights reserved.
+//  Created by 申文峰 on 16/2/14.
+//  Copyright © 2016年 申文峰. All rights reserved.
 //
 
 #define kBrowseActionSheetSpace 10.0f

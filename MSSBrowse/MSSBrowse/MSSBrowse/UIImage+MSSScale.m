@@ -2,8 +2,8 @@
 //  UIImage+MSSScale.m
 //  MSSBrowse
 //
-//  Created by 于威 on 15/12/6.
-//  Copyright © 2015年 于威. All rights reserved.
+//  Created by 申文峰 on 15/12/6.
+//  Copyright © 2015年 申文峰. All rights reserved.
 //
 
 #import "UIImage+MSSScale.h"
